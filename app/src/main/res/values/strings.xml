@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">FinancialsTicker by Alex Petev</string>
+    <string name="stock_name">Name</string>
+    <string name="stock_company_name">Company Name</string>
+    <string name="stock_price" >Price</string>
+    <string name="stock_change">Change</string>
+    <string name="stock_change_percent">Chg %</string>
+    <string name="stock_market_cap">Mkt Cap</string>
+</resources>
